@@ -45,7 +45,7 @@
       <h3><a href="https://myops.in">myops.in</a></h3>
       Simple tools for operations teams.
       <br><br>
-      <a href="https://myops.in"><b>Visit myops.in</b></a>
+      <a href="https://myops.in"><img src="assets/visit-myops.svg" alt="Visit myops.in"></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thangaduraiponnusamy/MyAppsUptime">MyAppsUptime</a></h3>
