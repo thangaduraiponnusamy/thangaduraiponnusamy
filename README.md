@@ -48,6 +48,7 @@
       <a href="https://myops.in"><img src="assets/visit-myops.svg" alt="Visit myops.in"></a>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/myappsuptime.svg" width="48" height="48" alt="MyAppsUptime logo" align="left">
       <h3><a href="https://github.com/thangaduraiponnusamy/MyAppsUptime">MyAppsUptime</a></h3>
       Self-hosted uptime and status monitoring for websites, APIs and servers.
       <br><br>
