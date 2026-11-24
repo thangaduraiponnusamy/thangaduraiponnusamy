@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://myops.in"><img src="assets/myops.svg" alt="myops.in"></a>
+  <a href="https://myops.in"><img src="assets/badge-home.svg" alt="myops.in"></a>
   <a href="https://www.linkedin.com/in/thangaduraiponnusamy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://thangaduraiponnusamy.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   <a href="http://thangaduraiponnusamy.gitlab.io/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
@@ -45,7 +45,7 @@
       <h3><a href="https://myops.in">myops.in</a></h3>
       Simple tools for operations teams.
       <br><br>
-      <a href="https://myops.in"><img src="assets/visit-myops.svg" alt="Visit myops.in"></a>
+      <a href="https://myops.in"><img src="assets/badge-visit.svg" alt="Visit myops.in"></a>
     </td>
     <td width="50%" valign="top">
       <img src="assets/myappsuptime.svg" width="48" height="48" alt="MyAppsUptime logo" align="left">
