@@ -45,7 +45,7 @@
       <h3><a href="https://myops.in">myops.in</a></h3>
       Simple tools for operations teams.
       <br><br>
-      <a href="https://myops.in"><img src="https://img.shields.io/badge/Visit%20site-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit myops.in"></a>
+      <a href="https://myops.in"><img src="https://img.shields.io/static/v1?label=&message=Visit%20site&color=4f46e5&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit myops.in"></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thangaduraiponnusamy/MyAppsUptime">MyAppsUptime</a></h3>
@@ -57,15 +57,11 @@
       &#10003; Multi-team, roles, audit log<br>
       &#10003; One Docker image on GHCR
       <br><br>
-      <a href="https://github.com/thangaduraiponnusamy/MyAppsUptime"><img src="https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
+      <a href="https://github.com/thangaduraiponnusamy/MyAppsUptime"><img src="https://img.shields.io/static/v1?label=&message=View%20repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
       <img src="https://img.shields.io/github/stars/thangaduraiponnusamy/MyAppsUptime?style=for-the-badge&color=4f46e5" alt="Stars">
     </td>
   </tr>
 </table>
-
-```bash
-docker run -d -p 8000:8000 -v myappsuptime-data:/data ghcr.io/thangaduraiponnusamy/myappsuptime:latest
-```
 
 ## Tech stack
 
