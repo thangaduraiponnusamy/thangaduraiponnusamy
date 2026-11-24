@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://myops.in"><img src="https://img.shields.io/badge/myops.in-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="myops.in"></a>
+  <a href="https://myops.in"><img src="https://img.shields.io/static/v1?label=&message=myops.in&color=4f46e5&style=for-the-badge&logo=googlechrome&logoColor=white" alt="myops.in"></a>
   <a href="https://www.linkedin.com/in/thangaduraiponnusamy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://thangaduraiponnusamy.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   <a href="http://thangaduraiponnusamy.gitlab.io/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
