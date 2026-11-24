@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://myops.in"><img src="https://img.shields.io/static/v1?label=&message=myops.in&color=4f46e5&style=for-the-badge&logo=googlechrome&logoColor=white" alt="myops.in"></a>
+  <a href="https://myops.in"><img src="https://img.shields.io/badge/MyOps-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="myops.in"></a>
   <a href="https://www.linkedin.com/in/thangaduraiponnusamy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://thangaduraiponnusamy.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   <a href="http://thangaduraiponnusamy.gitlab.io/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
@@ -45,7 +45,7 @@
       <h3><a href="https://myops.in">myops.in</a></h3>
       Simple tools for operations teams.
       <br><br>
-      <a href="https://myops.in"><img src="https://img.shields.io/static/v1?label=&message=Visit%20site&color=4f46e5&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit myops.in"></a>
+      <a href="https://myops.in"><img src="https://img.shields.io/badge/Website-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Visit myops.in"></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thangaduraiponnusamy/MyAppsUptime">MyAppsUptime</a></h3>
@@ -57,8 +57,7 @@
       &#10003; Multi-team, roles, audit log<br>
       &#10003; One Docker image on GHCR
       <br><br>
-      <a href="https://github.com/thangaduraiponnusamy/MyAppsUptime"><img src="https://img.shields.io/static/v1?label=&message=View%20repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
-      <img src="https://img.shields.io/github/stars/thangaduraiponnusamy/MyAppsUptime?style=for-the-badge&color=4f46e5" alt="Stars">
+      <a href="https://github.com/thangaduraiponnusamy/MyAppsUptime"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
     </td>
   </tr>
 </table>
